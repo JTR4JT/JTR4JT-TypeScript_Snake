@@ -1,0 +1,22 @@
+
+*{
+margin: 0;
+padding: 0;
+
+box-sizing: border-box;
+}
+
+#main{
+    width: 360px;
+    height: 420px;
+    background-color: black;
+    margin: 100px auto;
+    border: 10px solid black;
+    border-radius: 40px;
+   
+}
+ #stage{
+        width: 304px;
+        height: 304px;
+        border: 20px solid black;
+}
